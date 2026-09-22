@@ -5,3 +5,4 @@ print("Work",work)
 time=float(input("Enter the time: "))
 power=work/time
 print("Power",power)
+#Tuesday
