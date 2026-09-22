@@ -1,7 +1,7 @@
-force=100
-distance=5
+force=float(input("Enter the force: "))
+distance=float(input("Enter the distance: "))
 work=force*distance
-print("work",work)
-time=6
+print("Work",work)
+time=float(input("Enter the time: "))
 power=work/time
-print("power",power)
+print("Power",power)
